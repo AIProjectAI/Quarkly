@@ -1262,10 +1262,10 @@ export default (() => {
 			transition={"--opacityOut"}
 			quarkly-title={"Badge"}
 			text-decoration-line={"initial"}
-			href={"https://quarkly.io/"}
+			href={"https://quarkly-gamma.vercel.app/"}
 			target={"_blank"}
 		>
-			Made on Quarkly
+			Home
 		</Link>
 		<RawHtml>
 			<style place={"endOfHead"} rawKey={"60da14fa3f4eb1001ea27687"}>
